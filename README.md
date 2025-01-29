@@ -1,1 +1,8 @@
-# predicting-cyberbullying
+# Predicting Cyberbulying
+This project sought to compare the performance of different machine learning algorithms to predict whether or not a tweet should be classified as cyberbullying. This was completed as part of an job interview in December 2022.
+
+## Problem Statement
+In the age of the internet and social media, online discourse is now widespread and is an integral part to many people's lives. While there are many benefits to this highly accessible means of communication, one unfortunate side effect is the rise of cyberbullying. In order to create a welcoming environment, it is important to be able to moderate excessively harmful and negative comments. The sheer amount of users for a single social media platform, such as Facebook or Twitter, makes this problem ideal for machine learning. Where human moderators can only look over so much content, a machine learning algorithm properly trained in natural language processing can cover vast amounts of data. There are many forms of content on the internet (e.g. videos, photos, comments, etc) but this project focuses solely on text content. The [dataset](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification/data) used in this project is composed of over 40,000 tweets that have already been classified as cyberbullying or not. Because the scope of this project is limited to text data, this problem can be considered a natural language processing problem. There are currently many state of the art natural language processing algorithms, such as BERT. The challenge then lies in how we can fine-tune such algorithms to accurately classify content as cyberbullying or not.
+
+## Results
+The code for this problem can not currently be provided. However, the results of this project are outlined in "Predicting Cyberbullying Report.pdf".
