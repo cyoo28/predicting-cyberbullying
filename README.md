@@ -1,4 +1,4 @@
-# Predicting Cyberbulying
+# Predicting Cyberbullying on Tweet Data
 This project sought to compare the performance of different machine learning algorithms to predict whether or not a tweet should be classified as cyberbullying. This was completed as part of an job interview in December 2022.
 
 ## Problem Statement
